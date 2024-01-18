@@ -6,4 +6,4 @@ Book summarizer
 3. Load a pdf file
 4. Run main.py
 
-![intro_jpg](intro.jpg)
+![intro_jpg](intro.JPG)
